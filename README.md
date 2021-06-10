@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/BogdanBeerDestroyer/lab05.svg?branch=master)](https://travis-ci.org/BogdanBeerDestroyer/lab05)
-[![Coverage Status](https://coveralls.io/repos/github/BogdanBeerDestroyer/lab05/badge.svg)](https://coveralls.io/github/BogdanBeerDestroyer/lab05)
 # Лабораторная работа 5 Шумилишский ИУ8-22
 
 ```
