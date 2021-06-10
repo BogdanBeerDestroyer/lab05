@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/BogdanBeerDestroyer/lab05.svg?branch=master)](https://travis-ci.org/BogdanBeerDestroyer/lab05)
 # Лабораторная работа 5 Шумилишский ИУ8-22
 
 ```
